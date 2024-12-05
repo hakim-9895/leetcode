@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hakim-9895/leetcode/tree/master/0136-single-number) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hakim-9895/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hakim-9895/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hakim-9895/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+## String
+|  |
+| ------- |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hakim-9895/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
