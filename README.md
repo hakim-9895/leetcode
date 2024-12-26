@@ -19,6 +19,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/hakim-9895/leetcode/tree/master/0344-reverse-string) |
 | [1651-shuffle-string](https://github.com/hakim-9895/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hakim-9895/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/hakim-9895/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
