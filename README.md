@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hakim-9895/leetcode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/hakim-9895/leetcode/tree/master/1013-fibonacci-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hakim-9895/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
@@ -48,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/hakim-9895/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hakim-9895/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hakim-9895/leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hakim-9895/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hakim-9895/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
