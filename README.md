@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hakim-9895/leetcode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/hakim-9895/leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hakim-9895/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1651-shuffle-string](https://github.com/hakim-9895/leetcode/tree/master/1651-shuffle-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hakim-9895/leetcode/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/hakim-9895/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/hakim-9895/leetcode/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hakim-9895/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
