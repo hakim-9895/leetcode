@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hakim-9895/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hakim-9895/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0979-di-string-match](https://github.com/hakim-9895/leetcode/tree/master/0979-di-string-match) |
+| [1505-create-target-array-in-the-given-order](https://github.com/hakim-9895/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1651-shuffle-string](https://github.com/hakim-9895/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/hakim-9895/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hakim-9895/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/hakim-9895/leetcode/tree/master/0412-fizz-buzz) |
+| [1505-create-target-array-in-the-given-order](https://github.com/hakim-9895/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 ## Greedy
 |  |
 | ------- |
