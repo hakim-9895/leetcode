@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hakim-9895/leetcode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/hakim-9895/leetcode/tree/master/0046-permutations) |
 | [0136-single-number](https://github.com/hakim-9895/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/hakim-9895/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hakim-9895/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hakim-9895/leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/hakim-9895/leetcode/tree/master/0046-permutations) |
 ## Simulation
 |  |
 | ------- |
