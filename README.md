@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hakim-9895/leetcode/tree/master/0022-generate-parentheses) |
+| [0242-valid-anagram](https://github.com/hakim-9895/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hakim-9895/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/hakim-9895/leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hakim-9895/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hakim-9895/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/hakim-9895/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hakim-9895/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hakim-9895/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/hakim-9895/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hakim-9895/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hakim-9895/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
