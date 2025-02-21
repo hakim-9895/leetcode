@@ -89,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0979-di-string-match](https://github.com/hakim-9895/leetcode/tree/master/0979-di-string-match) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/hakim-9895/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
